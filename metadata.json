@@ -1,0 +1,8 @@
+{
+  "name": "Oferta Local PWA",
+  "description": "A hyperlocal B2B2C promotion platform connecting merchants and consumers.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
